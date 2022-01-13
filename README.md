@@ -1,3 +1,3 @@
-# homebrew-standalone-venv
+# homebrew-lonesnake
 
-This is the repo for the Brew formula of the [standalone-venv](https://github.com/pwalch/standalone-venv) Python tool.
+This is the repo for the Brew formula of the [lonesnake](https://github.com/pwalch/lonesnake) Python tool.
