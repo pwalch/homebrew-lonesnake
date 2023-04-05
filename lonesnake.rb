@@ -4,8 +4,8 @@
 class Lonesnake < Formula
   desc "create self-contained Python environments with interpreter and venv in a single directory"
   homepage "https://github.com/pwalch/lonesnake"
-  url "https://github.com/pwalch/lonesnake/archive/refs/tags/0.18.0.tar.gz"
-  sha256 "9ef625fdfa65a170ba915a8277c7deb3ac2c6e2dc5e03e6ffaa552f80fde5c25"
+  url "https://github.com/pwalch/lonesnake/archive/refs/tags/0.19.0.tar.gz"
+  sha256 "5e522db0c73442ad3679c6f19f705d6b53511ef0aeecc66e6e4cab0b6730d262"
   license "GPL-3.0-only"
 
   depends_on "openssl@3"
