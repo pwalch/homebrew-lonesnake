@@ -4,8 +4,8 @@
 class LonesnakeKit < Formula
   desc "configure development environments faster for lonesnake"
   homepage "https://github.com/pwalch/lonesnake"
-  url "https://github.com/pwalch/lonesnake/archive/refs/tags/0.28.2.tar.gz"
-  sha256 "481e849758051e5faf452803a76433e85969a727d379b0492fa20a146823e95f"
+  url "https://github.com/pwalch/lonesnake/archive/refs/tags/0.30.0.tar.gz"
+  sha256 "bbdb9211b37ad0faa6e153532524703a35aab2ccfde0af3f6feecaff9fbfcf50"
   license "GPL-3.0-only"
 
   depends_on "pwalch/lonesnake/lonesnake"
