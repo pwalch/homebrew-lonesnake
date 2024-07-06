@@ -4,8 +4,8 @@
 class Lonesnake < Formula
   desc "self-contained Python environments with a single command"
   homepage "https://github.com/pwalch/lonesnake"
-  url "https://github.com/pwalch/lonesnake/archive/refs/tags/0.31.0.tar.gz"
-  sha256 "3580d1116f64d9621959f58018f1f2644dc75907139b1fba43dd321b6667866a"
+  url "https://github.com/pwalch/lonesnake/archive/refs/tags/0.32.0.tar.gz"
+  sha256 "6f9599a6f9fa6fa17a05d6d07632e540cb41bfa2b2f8f7c6e84b185341fc662c"
   license "GPL-3.0-only"
 
   depends_on "openssl@3"
