@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Lonesnake < Formula
   desc "self-contained Python environments with a single command"
   homepage "https://github.com/pwalch/lonesnake"
